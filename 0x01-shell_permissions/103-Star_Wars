@@ -1,2 +1,2 @@
 #!/bin/bash
-cvlc -f StarWarsIV.mp4 --loop
+telnet towel.blinkenlights.nl
