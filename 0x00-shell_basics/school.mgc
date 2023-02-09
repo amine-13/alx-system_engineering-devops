@@ -6,9 +6,3 @@
 ESC key :wq enter
 
 file -C -m school.mgc
-
-git add .
-
-git commit -m 'file type school'
-
-git push
