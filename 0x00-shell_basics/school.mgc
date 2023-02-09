@@ -5,6 +5,6 @@
 
 Do not execute file
 
-file -C -M school.mgc
+file -C -m school.mgc
 
 Git add, commit and push
