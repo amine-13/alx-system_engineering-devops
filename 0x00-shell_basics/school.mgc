@@ -1,10 +1,14 @@
 #!/bin/bash
 0 string SCHOOL School data
 
-	!:mime School
+!:mime School
 
-Do not execute file
+ESC key :wq enter
 
 file -C -m school.mgc
 
-Git add, commit and push
+git add .
+
+git commit -m 'file type school'
+
+git push
