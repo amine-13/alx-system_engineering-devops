@@ -1,8 +1,5 @@
 #!/bin/bash
-0 string SCHOOL School data
+# Magic file School.mgc
+# School data files always contain the string SCHOOL at offset 0
 
-!:mime School
-
-ESC key :wq enter
-
-file -C -m school.mgc
+0	string	SCHOOL	School Data File
