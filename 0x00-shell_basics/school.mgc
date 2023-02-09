@@ -1,5 +1,2 @@
 #!/bin/bash
-# Magic file School.mgc
-# School data files always contain the string SCHOOL at offset 0
-
-0	string	SCHOOL	School Data File
+0 string SCHOOL School data file
