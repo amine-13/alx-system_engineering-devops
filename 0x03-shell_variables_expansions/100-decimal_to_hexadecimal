@@ -1,4 +1,2 @@
 #!/bin/bash
-DECIMAL=$1
-HEX=$(printf '%x\n' $DECIMAL)
-echo $HEX
+printf "%x\n" $DECIMAL
